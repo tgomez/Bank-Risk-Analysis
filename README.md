@@ -1,7 +1,6 @@
 # Risky Business <img src ="https://img.shields.io/badge/Credit%20Default-Predictor-red.svg">
 ### Team Members
 <p> Ritter Gustave </p>
-<p> Mohammad Rahman </p>
 <p> Tiffany Gomez </p>
 
 <br>
